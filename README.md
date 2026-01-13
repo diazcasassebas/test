@@ -1,4 +1,5 @@
 # NTMemory - Usermode NT Explorer
+![Demo](test.gif)
 
 ## Overview
 
@@ -108,3 +109,4 @@ This project is licensed under the terms of the MIT license.
 - [superfetch](https://github.com/jonomango/superfetch) by jonomango - inspiration for this project
 
 ---
+
